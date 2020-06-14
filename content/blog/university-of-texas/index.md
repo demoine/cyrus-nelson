@@ -1,7 +1,7 @@
 ---
 title: University of Texas
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./project__0004_university-of-texas-408x386.png
 description: What if everything you knew was turned to blue?
 ---
 

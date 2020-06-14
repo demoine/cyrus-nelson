@@ -1,7 +1,7 @@
 ---
 title: Providence Healthcare
 date: "2019-05-01"
-thumbnail: ./charles-deluvio-550068-unsplash.jpg
+thumbnail: ./project__0006_providence-healthcare-408x386.png
 description: I have one pug and one Czechoslovakian dog called Prazsky krysarik.
 ---
 

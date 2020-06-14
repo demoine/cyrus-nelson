@@ -1,7 +1,7 @@
 ---
 title: City of Sheboygan
 date: "2019-05-08"
-thumbnail: ./bbbb.jpg
+thumbnail: ./project__0012_city-of-sheboygan-408x386.png
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
 

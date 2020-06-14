@@ -1,7 +1,7 @@
 ---
 title: Conoco Phillips
 date: "2019-05-04"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
+thumbnail: ./project__0010_conoco-phillips-408x386.png
 description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
 ---
 

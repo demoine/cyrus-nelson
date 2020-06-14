@@ -1,7 +1,7 @@
 ---
 title: Park Bank
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./project__0007_park-bank-408x386.png
 description: What if everything you knew was turned to blue?
 ---
 

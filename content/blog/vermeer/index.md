@@ -1,7 +1,7 @@
 ---
 title: Vermeer
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./project__0001_vermeer-408x386.png
 description: What if everything you knew was turned to blue?
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Florida Polytechnic University
 date: "2019-05-05"
-thumbnail: ./matthew-hamilton-351641-unsplash.jpg
+thumbnail: ./project__0009_florida-polytechnic-university-408x386.png
 description: Let your hair down and paint the town red
 ---
 
