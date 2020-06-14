@@ -1,6 +1,8 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: City of Sheboygan
+date: "2019-05-08"
+thumbnail: ./bbbb.jpg
+description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
 
 Wow! I love blogging so much already.

@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Treasure Island
 date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./salty_egg.jpg
 ---
