@@ -1,7 +1,7 @@
 ---
 title: Treasure Island
 date: "2015-05-01T22:12:03.284Z"
-thumbnail: ./project__0002_treasure-island-408x386.png
+thumbnail: ./treasure-island.jpg
 ---
 
 This is my first post on my new fake blog! How exciting!

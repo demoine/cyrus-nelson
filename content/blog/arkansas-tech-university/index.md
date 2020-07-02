@@ -1,7 +1,7 @@
 ---
 title: Arkansas Tech University
 date: "2019-05-08"
-thumbnail: ./project__0013_arkansas-tech-university-408x386.png
+thumbnail: ./arkansas-tech-university.jpg
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
 

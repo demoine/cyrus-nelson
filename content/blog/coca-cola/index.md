@@ -1,7 +1,7 @@
 ---
 title: Coca Cola
 date: "2019-05-06"
-thumbnail: ./project__0011_Coca-Cola-408x386.png
+thumbnail: ./coca-cola.jpg
 description: What if everything you knew was turned to blue?
 ---
 
