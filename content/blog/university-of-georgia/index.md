@@ -1,7 +1,7 @@
 ---
 title: University of Texas
 date: "2019-05-06"
-thumbnail: ./university-of-texas.jpg
+thumbnail: ./university-of-georgia.jpg
 description: What if everything you knew was turned to blue?
 ---
 

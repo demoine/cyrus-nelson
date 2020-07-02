@@ -1,7 +1,7 @@
 ---
 title: Vermeer
 date: "2019-05-06"
-thumbnail: ./vermeer.png
+thumbnail: ./vermeer.jpg
 description: What if everything you knew was turned to blue?
 ---
 
