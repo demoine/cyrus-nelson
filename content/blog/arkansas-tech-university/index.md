@@ -2,29 +2,33 @@
 title: Arkansas Tech University
 date: "2019-05-08"
 thumbnail: ./arkansas-tech-university.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description:
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
-
 <div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_II_desktop-1.jpg)
-
+![First Floor Map](./1_ATU_FirstFloor_Map.jpg)
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
+![First Floor Map](./2_ATU_SecondFloor_Map.jpg)
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
+![First Floor Map](./3_ATU_ThirdFloor_Map.jpg)
+</div>
 
-![Darkness](./BLACK_I_desktop-1.jpg)
+<div class="kg-card kg-image-card kg-width-full">
+![First Floor Map](./4_ATU_FourthFloor_Map.jpg)
+</div>
 
+<div class="kg-card kg-image-card kg-width-full">
+![First Floor Map](./5_ATU_Directory.png)
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+![First Floor Map](./6_ATU_Directory.png)
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+![First Floor Map](./7_ATU_Directory.png)
 </div>
