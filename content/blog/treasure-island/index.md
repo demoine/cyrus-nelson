@@ -4,19 +4,14 @@ date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./treasure-island.jpg
 ---
 
-This is my first post on my new fake blog! How exciting!
+![Directory](./TIC_portrait_directory.png)
 
-I'm sure I'll write a lot more interesting things in the future.
+![Level 1](./TIC_portrait_level1.png)
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+![Level 2](./TIC_portrait_level2.png)
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+![Level 3](./TIC_portrait_level3.png)
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Level 4](./TIC_portrait_level4.png)
+
+![Level 5](./TIC_portrait_level5.png)

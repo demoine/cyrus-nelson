@@ -2,13 +2,15 @@
 title: UX Stretch
 date: "2019-05-02"
 thumbnail: ./ux-stretch.jpg
-description: A deep investigation into the pastel properties of colourful fruit and their psychological effects on hamsters
+description:
 ---
 
-![Fruits](./mike-dorner-173503-unsplash.jpg)
+![Primary](./1_Primary-4.png)
 
-<div class="kg-card kg-image-card kg-width-wide">
+![Directory](./2_Directory.png)
 
-![Fruits](./mike-dorner-173504-unsplash.jpg)
+![Directory](./3_Directory.png)
 
-</div>
+![Directory](./4_Directory.png)
+
+![Directory](./5_Directory.png)

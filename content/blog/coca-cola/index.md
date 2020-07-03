@@ -2,9 +2,9 @@
 title: Coca Cola
 date: "2019-05-06"
 thumbnail: ./coca-cola.jpg
-description: What if everything you knew was turned to blue?
+description:
 ---
 
-![It's all blue](./cody-davis-253925-unsplash.jpg)
+![KPI](./CC_1920x1080_KPI.png)
 
-![It's all blue](./cody-davis-259003-unsplash.jpg)
+![KPI Board](./Coca-Cola-KPI-Boar.jpg)

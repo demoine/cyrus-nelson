@@ -2,9 +2,15 @@
 title: Vermeer
 date: "2019-05-06"
 thumbnail: ./vermeer.jpg
-description: What if everything you knew was turned to blue?
+description:
 ---
 
-![It's all blue](./cody-davis-253925-unsplash.jpg)
+![Forklifts](./1_Forklifts.png)
 
-![It's all blue](./cody-davis-259003-unsplash.jpg)
+![Hiring](./2_Hiring.png)
+
+![OSHA](./3_OSHA.png)
+
+![Picnic](./4_Picnic.png)
+
+![Reminder](./5_Reminder.png)

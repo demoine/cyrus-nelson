@@ -2,13 +2,29 @@
 title: Providence Healthcare
 date: "2019-05-01"
 thumbnail: ./providence-healthcare.jpg
-description: I have one pug and one Czechoslovakian dog called Prazsky krysarik.
+description:
 ---
 
-![Cute dog](./charles-deluvio-540415-unsplash.jpg)
+![Cute dog](./1_Primary-2.png)
 
-![Cute dog](./charles-deluvio-540418-unsplash.jpg)
+![Cute dog](./2_Interactive.png)
 
-![Cute dog](./charles-deluvio-540420-unsplash.jpg)
+![Cute dog](./3_Directory.png)
 
-![Cute dog](./charles-deluvio-547196-unsplash.jpg)
+![Cute dog](./4_Donor-Landing.png)
+
+![Cute dog](./5_Corporate.png)
+
+![Cute dog](./6_Foundation-Board.png)
+
+![Cute dog](./7_Foundation-Event.png)
+
+![Cute dog](./8_Individual.png)
+
+![Cute dog](./9_Legacy.png)
+
+![Cute dog](./10_Providence.png)
+
+![Cute dog](./11_Survey.png)
+
+![Cute dog](./12_Menu.png)

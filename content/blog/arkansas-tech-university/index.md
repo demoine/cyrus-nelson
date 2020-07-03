@@ -5,30 +5,16 @@ thumbnail: ./arkansas-tech-university.jpg
 description:
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
 ![First Floor Map](./1_ATU_FirstFloor_Map.jpg)
-</div>
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./2_ATU_SecondFloor_Map.jpg)
-</div>
+![Second Floor Map](./2_ATU_SecondFloor_Map.jpg)
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./3_ATU_ThirdFloor_Map.jpg)
-</div>
+![Third Floor Map](./3_ATU_ThirdFloor_Map.jpg)
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./4_ATU_FourthFloor_Map.jpg)
-</div>
+![Fourth Floor Map](./4_ATU_FourthFloor_Map.jpg)
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./5_ATU_Directory.png)
-</div>
+![Directory](./5_ATU_Directory.png)
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./6_ATU_Directory.png)
-</div>
+![Directory](./6_ATU_Directory.png)
 
-<div class="kg-card kg-image-card kg-width-full">
-![First Floor Map](./7_ATU_Directory.png)
-</div>
+![Directory](./7_ATU_Directory.png)

@@ -2,14 +2,13 @@
 title: City of Sheboygan
 date: "2019-05-08"
 thumbnail: ./city-of-sheboygan.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description:
 ---
 
-Wow! I love blogging so much already.
+![Primary](./1_Primary.png)
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+![Interactive](./2_Interactive.png)
 
-Yeah, I didn't either.
+![Events](./3_Events.png)
+
+![Directory](./4_Building-Directory.png)

@@ -5,10 +5,14 @@ thumbnail: ./florida-polytechnic-university.jpg
 description: Let your hair down and paint the town red
 ---
 
-![Clean lines](./clem-onojeghuo-207792-unsplash.jpg)
+![Sample](./1_Sample.jpg)
 
-![Clean lines](./mitch-lensink-588486-unsplash.jpg)
+![Sample](./2_Sample.jpg)
 
-![Clean lines](./ricardo-gomez-angel-180819-unsplash.jpg)
+![Sample](./3_Sample.jpg)
 
-![Clean lines](./joanna-kosinska-254406-unsplash.jpg)
+![Sample](./4_Sample.jpg)
+
+![Sample](./5_Sample.jpg)
+
+![Sample](./6_Sample.png)

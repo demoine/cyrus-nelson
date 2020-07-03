@@ -2,13 +2,19 @@
 title: University of Washington
 date: "2019-05-03"
 thumbnail: ./university-of-washington.jpg
-description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.
+description:
 ---
 
-![Green](./chuttersnap-564286-unsplash.jpg)
+![Primary](./1_Primary_option.png)
 
-![Green](./jazmin-quaynor-105210-unsplash.jpg)
+![Primary](./1_Primary-2.png)
 
-![Green](./josh-silver-730329-unsplash.jpg)
+![Interactive](./2_Interactive-1.png)
 
-![Green](./roman-bozhko-251947-unsplash.jpg)
+![Donate](./3_Donate.png)
+
+![Dining](./4_Dining.png)
+
+![Commuting](./5_Commuting.png)
+
+![Taking Sustainability](./6_TakingSustainability.png)
