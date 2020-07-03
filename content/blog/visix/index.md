@@ -1,109 +1,90 @@
 ---
 title: Visix
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description:
 thumbnail: ./visix.jpg
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+## Lobby Display
 
-## On deer horse aboard tritely yikes and much
+![Primary](./1_Primary_opt.png)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+![Primary](./1_Primary-5.png)
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+![Weather](./2_Weather.png)
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+![Directory](./3_Directory-1.png)
 
-### Overlaid the jeepers uselessly much excluding
+![Dine](./4_Events.png)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+![Dine](./5_Dine.png)
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+![Dine](./6_Dine.png)
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+![Dine](./7_Dine.png)
 
-### According a funnily until pre-set or arrogant well cheerful
+![Dine](./8_Dine.png)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+![Dine](./9_Dine.png)
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+![Dine](./10_Dine.png)
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+![Dine](./11_Dine.png)
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+![Dine](./12_Dine.png)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+![Dine](./13_Dine.png)
 
-#### Silent delightfully including because before one up barring chameleon
+![Dine](./14_Dine.png)
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+![Price Point](./15_PricePoint.png)
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+![Price Point](./16_PricePoint.png)
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+![KPI](./17_KPI.png)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+## ProWorkFlow Data
 
-###### Slapped cozy a that lightheartedly and far
+![Swag](./ProWorkFlow Data/1_Sample.png)
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+![Swag](./ProWorkFlow Data/2_Sample.png)
+
+![Swag](./ProWorkFlow Data/3_Sample.png)
+
+![Swag](./ProWorkFlow Data/4_Sample.png)
+
+## Swag (Communicate Better)
+
+![Swag](./Swag/1_Sample.png)
+
+![Swag](./Swag/2_Sample.jpg)
+
+![Swag](./Swag/3_Sample.jpg)
+
+## Trade Show Content
+
+![Tradeshow](./Trade Show Content/1-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/2-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/3-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/4-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/5-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/6-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/7-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/8-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/9-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/10-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/11-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/12-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/13-Photo.jpg)

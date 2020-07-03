@@ -1,5 +1,5 @@
 ---
-title: University of Texas
+title: University of Georgia
 date: "2019-05-06"
 thumbnail: ./university-of-georgia.jpg
 description:
