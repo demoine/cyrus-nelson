@@ -18,8 +18,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            About
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -30,18 +29,36 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            I am a Georgia born Graphic User Interface (UI) Designer with an eye
+            for detail. My previous studies at the Savannah College of Art &
+            Design in Atlanta, Ga. has led me to an exciting career as a Graphic
+            User Interface (UI) Designer. I possess a knowledge for user
+            experience and design that can be used to create a more just and
+            inclusive world.
           </p>
+
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            Over the years, I have been privileged to collaborate with
+            colleagues that share my vision of creative design displaying vital
+            information for the overall user experience. I am a dynamic
+            professional with a passion for art and design that has developed
+            award-winning content for high education, corporations, and
+            tradeshows.
           </p>
+
+          <p>
+            Aside from all of this, I love to travel, experience different
+            cuisines, and paint. Being a Mixed media Artist is very rewarding
+            and it keeps me balanced while allowing my creative juices to flow.
+          </p>
+
+          <figure className="kg-card kg-image-card kg-width-full">
+            <Img
+              fluid={data.signature.childImageSharp.fluid}
+              className="signature-image"
+            />
+          </figure>
+
           <p>
             Don't forget to check out the{" "}
             <a href="https://docs.ghost.org/integrations/">
@@ -62,11 +79,16 @@ const indexQuery = graphql`
         title
       }
     }
-    benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
-    ) {
+    benchAccounting: file(relativePath: { eq: "cyrus-profile-pic.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    signature: file(relativePath: { eq: "Cyrus_Signature.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 600) {
           ...GatsbyImageSharpFluid
         }
       }
