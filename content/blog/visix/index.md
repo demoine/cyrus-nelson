@@ -45,7 +45,7 @@ thumbnail: ./visix.jpg
 
 ## ProWorkFlow Data
 
-![Swag](./ProWorkFlow Data/1_Sample.png)
+![Swag](./ProWorkFlow Data/1_Sample-1.png)
 
 ![Swag](./ProWorkFlow Data/2_Sample.png)
 
