@@ -13,13 +13,7 @@ export default props => (
     }
   >
     <Link to={props.node.fields.slug} className="post-card-link">
-      <div className="post-card-content">
-        {/*
-         <h2 className="post-card-title">
-          {props.node.frontmatter.title || props.node.fields.slug}
-        </h2>
-        */}
-      </div>
+      <div className="post-card-content"></div>
     </Link>
   </article>
 )
