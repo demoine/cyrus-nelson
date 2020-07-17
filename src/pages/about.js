@@ -25,9 +25,7 @@ const AboutPage = ({ data }, location) => {
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
             I am a Georgia born Graphic User Interface (UI) Designer with an eye
             for detail. My previous studies at the Savannah College of Art &
@@ -58,14 +56,6 @@ const AboutPage = ({ data }, location) => {
               className="signature-image"
             />
           </figure>
-
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p>
         </div>
       </article>
     </Layout>
@@ -81,14 +71,14 @@ const indexQuery = graphql`
     }
     benchAccounting: file(relativePath: { eq: "cyrus-profile-pic.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 600) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     signature: file(relativePath: { eq: "Cyrus_Signature.png" }) {
       childImageSharp {
-        fluid(maxWidth: 600) {
+        fluid(maxWidth: 300) {
           ...GatsbyImageSharpFluid
         }
       }
