@@ -20,7 +20,7 @@ const ElementsPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="forms">Forms</h2>
+          <h2 id="forms">Contact</h2>
           <form
             method="post"
             netlify-honeypot="bot-field"
@@ -29,35 +29,21 @@ const ElementsPage = ({ data }, location) => {
           >
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact" />
-            ...
             <div className="row gtr-uniform">
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="text"
-                  name="name"
-                  id="name"
-                  defaultValue
-                  placeholder="Name"
-                />
+              <div className="col-12 col-12-xsmall">
+                <input type="text" name="name" id="name" placeholder="Name" />
               </div>
-              <div className="col-6 col-12-xsmall">
+              <div className="col-12 col-12-xsmall">
                 <input
                   type="email"
                   name="email"
                   id="email"
-                  defaultValue
                   placeholder="Email"
                 />
               </div>
               {/* Break */}
               <div className="col-12 col-12-small">
-                <input
-                  type="tel"
-                  name="phone"
-                  id="phone"
-                  defaultValue
-                  placeholder="Phone"
-                />
+                <input type="tel" name="phone" id="phone" placeholder="Phone" />
               </div>
 
               {/* Break */}
