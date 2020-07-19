@@ -50,7 +50,7 @@ const AboutPage = ({ data }, location) => {
             and it keeps me balanced while allowing my creative juices to flow.
           </p>
 
-          <figure className="kg-card kg-image-card kg-width-full">
+          <figure className="kg-card kg-image-card">
             <Img
               fluid={data.signature.childImageSharp.fluid}
               className="signature-image"
