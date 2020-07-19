@@ -1,12 +1,17 @@
 import React from "react"
 import { Link } from "gatsby"
 import logo from "../../content/assets/logo.png"
+import favicon from "../../static/favicon.ico"
+import Helmet from "react-helmet"
 
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
+      <Helmet>
+        <link rel="icon" href={favicon} />
+      </Helmet>
       <header className="site-head">
         <div className="site-head-container">
           <a
