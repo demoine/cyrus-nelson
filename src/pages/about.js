@@ -40,8 +40,8 @@ const AboutPage = ({ data }, location) => {
             colleagues that share my vision of creative design displaying vital
             information for the overall user experience. I am a dynamic
             professional with a passion for art and design that has developed
-            award-winning content for high education, corporations, and
-            tradeshows.
+            award-winning content for high education, corporations, and trade
+            shows.
           </p>
 
           <p>
