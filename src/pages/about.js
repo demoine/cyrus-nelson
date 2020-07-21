@@ -45,8 +45,8 @@ const AboutPage = ({ data }, location) => {
           </p>
 
           <p>
-            Aside from all of this, I love to travel, to experience different
-            cuisines, and to paint. Being a Mixed media Artist is very rewarding
+            Aside from all of this, I love to travel, experience different
+            cuisines, and to paint. Being a mixed media artist is very rewarding
             and it keeps me balanced while allowing my creative juices to flow.
           </p>
 
