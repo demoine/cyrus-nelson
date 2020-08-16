@@ -1,6 +1,6 @@
 ---
 title: Arkansas Tech University
-date: "2015-05-07T03:00:32.169Z"
+date: "2020-08-08"
 thumbnail: ./arkansas-tech-university.jpg
 description:
 ---

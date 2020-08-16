@@ -1,6 +1,6 @@
 ---
 title: Visix
-date: "2015-05-07T01:00:32.169Z"
+date: "2020-08-10"
 description:
 thumbnail: ./visix.jpg
 ---

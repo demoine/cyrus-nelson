@@ -561,6 +561,7 @@ body {
 .post-content-body h5,
 .post-content-body h6 {
   color: var(--color-base);
+  text-align: center;
 }
 
 .post-content-body li {
