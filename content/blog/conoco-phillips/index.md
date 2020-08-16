@@ -1,6 +1,6 @@
 ---
 title: Conoco Phillips
-date: "2019-05-04"
+date: "2015-05-07T02:00:32.169Z"
 thumbnail: ./conoco-phillips.jpg
 description:
 ---

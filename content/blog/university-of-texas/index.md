@@ -1,6 +1,6 @@
 ---
 title: University of Texas
-date: "2019-05-06"
+date: "2015-05-07T07:00:32.169Z"
 thumbnail: ./university-of-texas.jpg
 description:
 ---

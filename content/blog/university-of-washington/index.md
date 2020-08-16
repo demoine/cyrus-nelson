@@ -1,6 +1,6 @@
 ---
 title: University of Washington
-date: "2019-05-03"
+date: "2015-05-07T05:00:32.169Z"
 thumbnail: ./university-of-washington.jpg
 description:
 ---

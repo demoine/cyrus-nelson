@@ -1,6 +1,6 @@
 ---
 title: University of Georgia
-date: "2019-05-06"
+date: "2015-05-07T04:00:32.169Z"
 thumbnail: ./university-of-georgia.jpg
 description:
 ---

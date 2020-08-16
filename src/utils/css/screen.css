@@ -514,7 +514,7 @@ body {
 }
 
 .post-content-title {
-  margin: 0 0 3vw;
+  margin: 2em 0 3vw;
   color: var(--color-base);
   text-align: center;
 }
@@ -541,6 +541,7 @@ body {
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
+  display: none;
 }
 
 .post-content-body {

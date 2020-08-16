@@ -1,9 +1,55 @@
 ---
 title: Visix
-date: "2015-05-28T22:40:32.169Z"
+date: "2015-05-07T01:00:32.169Z"
 description:
 thumbnail: ./visix.jpg
 ---
+
+## Trade Show Content
+
+![Tradeshow](./Trade Show Content/1-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/2-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/3-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/4-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/5-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/6-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/7-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/8-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/9-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/10-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/11-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/12-Photo.jpg)
+
+![Tradeshow](./Trade Show Content/13-Photo.jpg)
+
+## ProWorkFlow Data
+
+![Swag](./ProWorkFlow Data/1_Sample-1.png)
+
+![Swag](./ProWorkFlow Data/2_Sample.png)
+
+![Swag](./ProWorkFlow Data/3_Sample.png)
+
+![Swag](./ProWorkFlow Data/4_Sample.png)
+
+## Swag (Communicate Better)
+
+![Swag](./Swag/1_Sample.png)
+
+![Swag](./Swag/2_Sample.jpg)
+
+![Swag](./Swag/3_Sample.jpg)
 
 ## Lobby Display
 
@@ -42,49 +88,3 @@ thumbnail: ./visix.jpg
 ![Price Point](./16_PricePoint.png)
 
 ![KPI](./17_KPI.png)
-
-## ProWorkFlow Data
-
-![Swag](./ProWorkFlow Data/1_Sample-1.png)
-
-![Swag](./ProWorkFlow Data/2_Sample.png)
-
-![Swag](./ProWorkFlow Data/3_Sample.png)
-
-![Swag](./ProWorkFlow Data/4_Sample.png)
-
-## Swag (Communicate Better)
-
-![Swag](./Swag/1_Sample.png)
-
-![Swag](./Swag/2_Sample.jpg)
-
-![Swag](./Swag/3_Sample.jpg)
-
-## Trade Show Content
-
-![Tradeshow](./Trade Show Content/1-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/2-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/3-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/4-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/5-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/6-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/7-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/8-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/9-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/10-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/11-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/12-Photo.jpg)
-
-![Tradeshow](./Trade Show Content/13-Photo.jpg)
