@@ -2,7 +2,7 @@
 title: Florida Polytechnic University
 date: "2019-05-05"
 thumbnail: ./florida-polytechnic-university.jpg
-description: Let your hair down and paint the town red
+description:
 ---
 
 ![Sample](./1_Sample.jpg)
