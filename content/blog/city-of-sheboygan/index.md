@@ -2,7 +2,7 @@
 title: City of Sheboygan
 date: "2019-05-08"
 thumbnail: ./city-of-sheboygan.jpg
-description:
+description: Designed UX/UI, layout and graphics for City of Sheboygan InfoComm trade show content.
 ---
 
 ![Primary](./1_Primary.png)

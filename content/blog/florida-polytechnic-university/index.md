@@ -2,7 +2,7 @@
 title: Florida Polytechnic University
 date: "2019-05-05"
 thumbnail: ./florida-polytechnic-university.jpg
-description:
+description: Designed an interactive wayfinding display for Florida Polytechnic University.
 ---
 
 ![Sample](./1_Sample.jpg)

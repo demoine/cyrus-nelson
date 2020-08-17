@@ -2,7 +2,7 @@
 title: Providence Healthcare
 date: "2019-05-01"
 thumbnail: ./providence-healthcare.jpg
-description:
+description: Designed UX/UI, layout and graphics for Providence Healthcare InfoComm trade show content.
 ---
 
 ![Cute dog](./1_Primary-2.png)

@@ -2,6 +2,7 @@
 title: Treasure Island
 date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./treasure-island.jpg
+description: An interactive directory designed for Treasure Island.
 ---
 
 ![Directory](./TIC_portrait_directory.png)

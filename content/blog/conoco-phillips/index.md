@@ -2,7 +2,7 @@
 title: Conoco Phillips
 date: "2020-08-09"
 thumbnail: ./conoco-phillips.jpg
-description:
+description: Designed UX/UI, layout and graphics for Conoco Phillips InfoComm trade show content.
 ---
 
 ![Primary](./1_Primary-1.png)

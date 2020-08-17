@@ -2,7 +2,7 @@
 title: Vermeer
 date: "2019-05-06"
 thumbnail: ./vermeer.jpg
-description:
+description: Designed stunning visual graphics for digital signage trade show content.
 ---
 
 ![Forklifts](./1_Forklifts.png)

@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 date: "2020-08-08"
 thumbnail: ./arkansas-tech-university.jpg
-description:
+description: Designed an interactive wayfinding display for Arkansas Tech University.  This project won several awards including an AVA Digital Awards, a Communicator Award of Distinction, and a Marcom Awards Gold Winner.
 ---
 
 ![First Floor Map](./1_ATU_FirstFloor_Map.jpg)

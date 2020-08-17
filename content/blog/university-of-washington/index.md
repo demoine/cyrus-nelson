@@ -2,7 +2,7 @@
 title: University of Washington
 date: "2020-08-06"
 thumbnail: ./university-of-washington.jpg
-description:
+description: Designed UX/UI, layout and graphics for University of Washington InfoComm and DSE trade show content. This particular one was very unique due to it featuring a room booking widget.
 ---
 
 ![Primary](./1_Primary_option.png)

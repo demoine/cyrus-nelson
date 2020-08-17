@@ -2,7 +2,7 @@
 title: Mississippi Aquarium
 date: "2019-05-07"
 thumbnail: ./mississippi-aquarium.jpg
-description:
+description: An interactive concept designed for Mississippi Aquarium.
 ---
 
 ![Primary](./1_Primary.png)

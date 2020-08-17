@@ -2,7 +2,7 @@
 title: University of Texas
 date: "2020-08-05"
 thumbnail: ./university-of-texas.jpg
-description:
+description: Designed UX/UI, layout and graphics for University of Texas InfoComm trade show content.
 ---
 
 ![Primary Layout](./1-Primary-Layout.png)

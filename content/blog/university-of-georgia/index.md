@@ -2,7 +2,7 @@
 title: University of Georgia
 date: "2020-08-07"
 thumbnail: ./university-of-georgia.jpg
-description:
+description: Designed UX/UI, layout and graphics for University of Georgia InfoComm and DSE trade show content.
 ---
 
 ![Primary](./1_Primary-3.png)

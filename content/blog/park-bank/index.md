@@ -2,7 +2,7 @@
 title: Park Bank
 date: "2019-05-06"
 thumbnail: ./park-bank.jpg
-description:
+description: Designed UX/UI, layout and graphics for Park Bank InfoComm trade show content.
 ---
 
 ![It's all blue](./1_Primary-1.png)
