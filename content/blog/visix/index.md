@@ -1,7 +1,7 @@
 ---
 title: Visix
 date: "2020-08-10"
-description: Designed internal marketing collateral, digital signage content, and interactive wayfinding displays for InfoComm and DSE tradeshows.
+description: Designed internal marketing collateral, digital signage content, and interactive wayfinding displays for InfoComm and DSE trade shows.
 thumbnail: ./visix.jpg
 ---
 
